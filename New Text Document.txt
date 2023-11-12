@@ -1,1 +1,10 @@
-aaaaaaaaaaaaaaaaaaaaallkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+ git init
+ git status
+ git add .
+ git config --global user.email "yekdoust@gmail.com"
+ git commit -m "hello git"
+git log
+ git reset --hard
+git branch new-b
+ git branch -a
+ git checout new-b
