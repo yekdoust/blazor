@@ -7,4 +7,7 @@ git log
  git reset --hard
 git branch new-b
  git branch -a
- git checout new-b
+ git checkout new-b
+git merge new-b
+ git remote add origin https://github.com/yekdoust/blazor.git
+git push --set-upstream origin master
